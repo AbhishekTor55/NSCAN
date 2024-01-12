@@ -9,4 +9,4 @@ pip3 install -r requirements.txt
 
 chmod +x nscan.py
 
-python3 nscan.py
+python3 nscan.py -h
