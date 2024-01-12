@@ -1,1 +1,2 @@
-# NSCAN
+# NSCAN 
+apt install python3
